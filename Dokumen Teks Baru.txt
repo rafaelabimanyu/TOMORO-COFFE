@@ -1,0 +1,8 @@
+LIST PROJRK SAINTEK PRODUK DARI UIX
+contoh:
+nama/anggota (DESAIN 1/2/3)
+
+1. {abi , ayu , caroline , cesya , razqha , sidik , afri dkk [XPPLG1](desain1)}
+2.
+3.
+dst...
